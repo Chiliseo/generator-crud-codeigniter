@@ -1,4 +1,4 @@
-# generator-crud-codeigniter [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+# generator-crud-codeigniter [![NPM version][npm-image]][npm-url]
 > Create Crud Api Rest Codeigniter
 
 ## Installation
